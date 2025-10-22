@@ -12,7 +12,7 @@ Building on the Efficient Stochastic Transformer-based World Models (STORM) arch
 
 ### Architecture
 
-![MaskGIT Prior Architecture](assets/MaskGIT_Prior_2.pdf)
+![MaskGIT Prior Architecture](assets/GIT-STORM.png)
 
 The model architecture consists of:
 - **Encoder**: CNN-based encoder that processes visual observations into latent representations
